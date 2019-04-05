@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "fetch-mock": "^6.5.0",
+    "isomorphic-fetch": "^2.2.1",
     "mocha-multi": "^1.0.1",
     "node-fetch": "^2.1.2",
     "react": "^16.4.1",
